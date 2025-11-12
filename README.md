@@ -12,7 +12,7 @@ Visualize how angular momentum creates a centrifugal barrier that confines the r
 ## 🧠 Instructions
 1. Run:
    ```bash
-   python potencial_efectivo.py
+   python effective_potential.py
 
 
 Modify parameters:
