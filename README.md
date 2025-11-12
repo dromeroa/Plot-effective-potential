@@ -15,13 +15,11 @@ Visualize how angular momentum creates a centrifugal barrier that confines the r
    python potencial_efectivo.py
 
 
-Modify parameters in lines XX–YY:
+Modify parameters:
 
-Total energy
-
-Angular momentum
-
-Initial conditions
+- Total energy
+- Angular momentum
+- Initial conditions
 
 Observe how rmin, rmax, and the trajectory change in response.
 
@@ -29,8 +27,8 @@ Observe how rmin, rmax, and the trajectory change in response.
 
 🔍 4. Questions to Explore
 
-What happens if you increase the angular momentum?
+- What happens if you increase the angular momentum?
 
-How does the confined region change with different energies?
+- How does the confined region change with different energies?
 
-When do you obtain circular vs elliptical orbits?
+- When do you obtain circular vs elliptical orbits?
